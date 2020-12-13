@@ -64,6 +64,10 @@ ul>li:last-child{
 
 }
 
+a:hover {
+    color: #2196f3;
+}
+
 .email {
     font-family: Roboto;
     font-style: normal;
